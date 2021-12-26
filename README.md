@@ -25,6 +25,8 @@
 
 
 ## Screenshots
+- Here are some screenshots of a few pages from the program.
+
 ![Example screenshot](./img/ss1.png)
 
 ![Example screenshot](./img/ss2.png)
