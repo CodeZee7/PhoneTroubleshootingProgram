@@ -25,7 +25,15 @@
 
 
 ## Screenshots
-![Example screenshot](./img/Screenshot.png)
+![Example screenshot](./img/ss1.png)
+
+![Example screenshot](./img/ss2.png)
+
+![Example screenshot](./img/ss3.png)
+
+![Example screenshot](./img/ss4.png)
+
+![Example screenshot](./img/ss5.png)
 
 
 ## Setup
