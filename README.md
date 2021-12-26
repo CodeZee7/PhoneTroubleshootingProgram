@@ -17,12 +17,6 @@
 * [Contact](#contact)
 
 
-## General Information
-- This project is just a basic, beginner level Python project that anyone can attempt/follow to learn or practice their coding skills.
-- It is a functional stopwatch with the features stated in the [section below](#features).
-- I created this project out of boredom and I plan to upload a tutorial on it if I have not already!
-
-
 ## Features
 - GUI with tkinter.
 - Asks the user questions on consecutive pages using different tkinter widgets to achieve a variety of inputs from the user.
