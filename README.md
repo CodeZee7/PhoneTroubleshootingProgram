@@ -7,7 +7,6 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
